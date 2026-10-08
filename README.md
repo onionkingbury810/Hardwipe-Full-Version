@@ -240,4 +240,4 @@ This repository serves as the official landing page for Hardwipe. The software i
 **Get the most recent version of Hardwipe today!**
 
 ---
-**Last updated:** 2026-10-07 21:52:53 UTC
+**Last updated:** 2026-10-08 01:42:00 UTC
